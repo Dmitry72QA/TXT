@@ -1,0 +1,4 @@
+FIO - Gilev Dmitry Igorevich
+age - 27
+animals - HOT dog
+many - 600$
